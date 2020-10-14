@@ -1,1 +1,1 @@
-# sharique-mohd-iris
+# iris-classification
